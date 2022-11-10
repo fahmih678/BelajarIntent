@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BelajarIntent</string>
+    <string name="button_main">Send</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="open_web">Open Web</string>
+    <string name="open_location">Search Location</string>
+    <string name="share_text">Share Text</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="btn_contact">contact</string>
+    <string name="btn_dial">Dial</string>
+    <string name="select_image">Select Image</string>
+</resources>
